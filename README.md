@@ -1,6 +1,8 @@
 # Algo Group UChicago Assessment (READ UNTIL END)
 
-My solution is for Option1.
+My solution is for Option1. I tested using the main function and the results can
+be found in TestResult.png.
+
 ### Option 1: FIND DUPLICATE
 - Implement a function to identify a duplicate integer in an unsorted array. Ideally, you would write 2 different solutions with different time/space performance.
 - Given an array of exactly $N+1$ numbers, where each of the numbers in range $[1,N]$ appears at least once, find the number that appears more than once.
